@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 336681856}
   - component: {fileID: 336681855}
   m_Layer: 0
-  m_Name: Mario_Run
+  m_Name: Mario
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
